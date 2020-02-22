@@ -27,7 +27,7 @@ author:
 
 
 # markdown
-markdown: kramdown
+kramdown: kramdown
   
 kramdown:
  footnote_nr: 1
